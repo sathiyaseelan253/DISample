@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "32DR/0VZDZOry6f7I0XHXChNZzoGZV0P/M1OPU4oNiU=",
+  "Source": "DIApplication",
+  "BasePath": "_content/DIApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIApplication\\wwwroot",
+      "Source": "DIApplication",
+      "ContentRoot": "D:\\E drive\\Asp Net Core\\DISampleProject\\DIApplication\\wwwroot\\",
+      "BasePath": "_content/DIApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\E drive\\Asp Net Core\\DISampleProject\\DIApplication\\wwwroot\\StyleSheet.css",
+      "SourceId": "DIApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E drive\\Asp Net Core\\DISampleProject\\DIApplication\\wwwroot\\",
+      "BasePath": "_content/DIApplication",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

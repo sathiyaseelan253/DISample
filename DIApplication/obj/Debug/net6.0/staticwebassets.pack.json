@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\E drive\\Asp Net Core\\DISampleProject\\DIApplication\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DIApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DIApplication.props",
+      "PackagePath": "build\\DIApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DIApplication.props",
+      "PackagePath": "buildMultiTargeting\\DIApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DIApplication.props",
+      "PackagePath": "buildTransitive\\DIApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukL16p0j7o/h81VjDDxYCsfh6PIatf11TYWL6kUmx8iMbEV6i71IlNkpnUE3lrtWvG5bSMNwiyMWfr8BUX8WMg==",
+  "success": true,
+  "projectFilePath": "D:\\E drive\\Asp Net Core\\DISampleProject\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

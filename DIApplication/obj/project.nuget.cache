@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iw31R/CkwQgo6Ze5fLRnEbTmy9RwFGpFCOa8RQRgpyYIByN37QaXR1ivX6e6zNlvCAj4Yoio+lwIujr28tIRlw==",
+  "success": true,
+  "projectFilePath": "D:\\E drive\\Asp Net Core\\DISampleProject\\DIApplication\\DIApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\sathiyaseelan.ram\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
